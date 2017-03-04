@@ -53,7 +53,7 @@
 
 .scene_element--fadein {
     -webkit-animation-name: fadeIn;
-    animation-delay: 5s;
+    animation-delay: 3s;
 
 }
 
